@@ -12,7 +12,6 @@ This is a solution to the [Single price grid component challenge on Frontend Men
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -45,11 +44,11 @@ Users should be able to:
 
 ### What I learned
 
-I used this challenge as an opportunity to continue practicing css and accessibility. For accessibility, I did my best, but there's still the issue that as with a lot of these designs, the color contrast is not great and does not meet WCAG standard. 
+I used this challenge as an opportunity to continue practicing css and accessibility. For accessibility, I did my best, but there's still the issue that as with a lot of these designs, the color contrast is not great and does not meet WCAG standard.
 
 ### Continued development
 
-Continue practicing CSS and making my pages accessible.
+Continue practicing CSS and accessibility.
 
 ## Author
 
